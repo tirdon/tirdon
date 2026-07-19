@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-```tex
+```latex
                 zJdpJ0hhhapmYQ0Y
               JLOq**#W8&&&M#oopwZ0C
             czOpoM88BB%888&WWWWMhpOL
