@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 ```latex
-\(\documentclass{article} \begin{document} \section{Introduction} Hello World! \end{document} \%\%\)MAGIT_PARSER_PROTECT%%
+\documentclass{article}
+\begin{document}
+\section{Introduction}
+Hello World! 
+\end{document}
 ```
 ```
                 zJdpJ0hhhapmYQ0Y
