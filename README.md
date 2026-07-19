@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ```math
-\begin{text}
+\text{
 Hello World! $x ^ 2$
-\end{text}
+}
 ```
 ```
                 zJdpJ0hhhapmYQ0Y
