@@ -40,21 +40,13 @@ $${\color{lightgreen}\text{Currently working on open-source projects.}}$$
 $${\color{orange}\text{Available for freelance contracts.}}$$
 
 ```ansi
-
-[31mRed text[0m
-
-[32mGreen text[0m
-
-[33mYellow text[0m
-
-[34mBlue text[0m
-
-[35mMagenta text[0m
-
-[36mCyan text[0m
-
-[37mWhite text[0m
-
+[31mRed text[0m
+[32mGreen text[0m
+[33mYellow text[0m
+[34mBlue text[0m
+[35mMagenta text[0m
+[36mCyan text[0m
+[37mWhite text[0m
 ```
 
 <!--
