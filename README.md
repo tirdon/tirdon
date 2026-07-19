@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ```latex
+\(\documentclass{article} \begin{document} \section{Introduction} Hello World! \end{document} \%\%\)MAGIT_PARSER_PROTECT%%
                 zJdpJ0hhhapmYQ0Y
               JLOq**#W8&&&M#oopwZ0C
             czOpoM88BB%888&WWWWMhpOL
