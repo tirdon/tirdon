@@ -29,6 +29,11 @@ rUbhMWWWMMWWWWWWMMt~I>zd*h|+;;O*WWWWWWMMMMMMabLc
       cnnUvYbokho*#a][o***mjfw#*ahohLYJuvz
           +)LpfnUZbhxtooookUzqmLznbZj1
 ```
+<pre style="background-color: #2d2d2d; padding: 10px;">
+<code style="color: #61afef;">console.log(<span style="color: #98c379;">"Hello World"</span>);</code>
+</pre>
+
+
 <!--
 **tirdon/tirdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
