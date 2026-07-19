@@ -1,11 +1,7 @@
 ## Hi there 👋
 
 ```latex
-\documentclass{article}
-\begin{document}
-\section{Introduction}
-Hello World! 
-\end{document}
+Hello World! $x ^ 2$
 ```
 ```
                 zJdpJ0hhhapmYQ0Y
