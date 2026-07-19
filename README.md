@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-```latex
+```math
 Hello World! $x ^ 2$
 ```
 ```
